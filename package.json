@@ -1,0 +1,14 @@
+{
+  "name": "challenge-api",
+  "version": "0.0.1",
+  "description": "Challenge api to identify a palindrome.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Bruno C. Vieira",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.2.0",
+    "request": "^2.79.0",
+    "restify": "^4.3.0"
+  }
+}
