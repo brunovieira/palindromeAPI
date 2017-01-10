@@ -1,5 +1,5 @@
 {
-  "name": "challenge-api",
+  "name": "palindrome-api",
   "version": "0.0.1",
   "description": "Challenge api to identify a palindrome.",
   "main": "index.js",
